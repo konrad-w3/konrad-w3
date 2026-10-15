@@ -1,16 +1,41 @@
-## Hi there 👋
+# Konrad Bieniek
 
-<!--
-**konrad-w3/konrad-w3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer | Full-Stack & Blockchain**
 
-Here are some ideas to get you started:
+Software engineer with 7+ years of experience building production applications and blockchain infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background includes full-stack development, cross-chain protocols, developer SDKs, and smart contract engineering.
+
+## Experience
+
+Previously at **LayerZero Labs**, where I worked on:
+
+- **Stargate Finance** - React and TypeScript development, wallet integrations, and cross-chain transaction workflows.
+- **Value Transfer API** — Cross-chain quoting and execution infrastructure.
+- **Blockchain integrations** — EVM, Solana, and other networks.
+- **Smart contracts** — Transaction batching and fee collection.
+
+## Tech Stack
+
+**Languages:** TypeScript, JavaScript, Solidity, Rust
+
+**Frontend:** React, Next.js
+
+**Backend:** Node.js, REST APIs, GraphQL
+
+**Blockchain:** EVM, Solana, ethers.js, wagmi, Foundry
+
+**Infrastructure:** AWS, Docker, PostgreSQL
+
+## Other GitHub Account
+
+This account was primarily used for my engineering work during my time at LayerZero Labs.
+
+My main GitHub profile, covering my broader professional experience, is:
+
+**[@konraddb](https://github.com/konraddb)**
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/konrad-bieniek-154926194/)
+- [Main GitHub](https://github.com/konraddb)
